@@ -1,6 +1,6 @@
 # Maven Market Power BI Dashboard
 
-### Dashboard Link: [Dashboard Link](https://app.powerbi.com/)
+### Dashboard Link: [Dashboard Link](https://app.powerbi.com/links/roL_szIzOe?ctid=bad12864-913e-4b99-87d6-b8d2ad459e27&pbi_source=linkShare)
 
 ## Problem Statement
 
